@@ -1,63 +1,49 @@
 User-agent: *
 
 
-Disallow: /continents/africa/
+Disallow: /countries/alaska.html
 
-Disallow: /continents/
+Disallow: /continents.html
 
-Disallow: /countries/
+Disallow: /countries.html
 
-Disallow: /duration/
+Disallow: /duration.html
 
-Disallow: /experiences/
+Disallow: /experiences.html
 
-Disallow: /duration/multi-day/
-
-Disallow: /experiences/homestay-experience-bududa/
-
-Disallow: /countries/uganda/
+Disallow: /duration/full-day.html
 
 Disallow: /
 
-Disallow: /continents/asia/
+Disallow: /medium.html
 
-Disallow: /duration/half-day/
+Disallow: /types/nature.html
 
-Disallow: /countries/sri-lanka/
+Disallow: /continents/north-america.html
 
-Disallow: /experiences/whale-watching-lanka/
+Disallow: /medium/photologue.html
 
-Disallow: /continents/europe/
+Disallow: /types.html
 
-Disallow: /experiences/live-music-bar-goreme/
+Disallow: /countries/united-states-of-america.html
 
-Disallow: /countries/turkey/
+Disallow: /types/wildlife.html
 
-Disallow: /experiences/camping-at-savage-river/
+Disallow: /experiences/wildlife-viewing-denali.html
 
-Disallow: /continents/north-america/
+Disallow: /continents/africa.html
 
-Disallow: /countries/united-states-of-america/
+Disallow: /experiences/our-closest-cousin.html
 
-Disallow: /experiences/denali-at-her-raw-best/
+Disallow: /types/forest.html
 
-Disallow: /duration/full-day/
+Disallow: /duration/half-day.html
 
-Disallow: /countries/kenya/
+Disallow: /types/trekking.html
 
-Disallow: /experiences/adventures-with-matatus/
+Disallow: /countries/uganda.html
 
-Disallow: /countries/tanzania/
+Disallow: /.html
 
-Disallow: /experiences/stuck-in-serengeti/
-
-Disallow: /experiences/our-closest-ancestor/
-
-Disallow: /about/
-
-Disallow: /experiences/stonetown-zanzibar/
-
-Disallow: /countries/zanzibar/
-
-Disallow: /index.html
+Disallow: /about.html
 

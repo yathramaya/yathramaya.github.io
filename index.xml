@@ -1,161 +1,161 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yatramaya</title>
-    <link>https://yatramaya.hoatz.in/index.html</link>
-    <description>Recent content on Yatramaya</description>
+    <title>Yātrāmaya</title>
+    <link>https://yatramaya.hoatz.in/.html</link>
+    <description>Recent content on Yātrāmaya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://yatramaya.hoatz.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Africa</title>
-      <link>https://yatramaya.hoatz.in/continents/africa/</link>
-      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      <title>Alaska</title>
+      <link>https://yatramaya.hoatz.in/countries/alaska.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/continents/africa/</guid>
+      <guid>https://yatramaya.hoatz.in/countries/alaska.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continents</title>
-      <link>https://yatramaya.hoatz.in/continents/</link>
-      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      <link>https://yatramaya.hoatz.in/continents.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/continents/</guid>
+      <guid>https://yatramaya.hoatz.in/continents.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Countries</title>
-      <link>https://yatramaya.hoatz.in/countries/</link>
-      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      <link>https://yatramaya.hoatz.in/countries.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/</guid>
+      <guid>https://yatramaya.hoatz.in/countries.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duration</title>
-      <link>https://yatramaya.hoatz.in/duration/</link>
-      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
+      <link>https://yatramaya.hoatz.in/duration.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/duration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi Day</title>
-      <link>https://yatramaya.hoatz.in/duration/multi-day/</link>
-      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/duration/multi-day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uganda</title>
-      <link>https://yatramaya.hoatz.in/countries/uganda/</link>
-      <pubDate>Thu, 15 Oct 2020 11:16:15 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/uganda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asia</title>
-      <link>https://yatramaya.hoatz.in/continents/asia/</link>
-      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents/asia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Half Day</title>
-      <link>https://yatramaya.hoatz.in/duration/half-day/</link>
-      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/duration/half-day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sri Lanka</title>
-      <link>https://yatramaya.hoatz.in/countries/sri-lanka/</link>
-      <pubDate>Wed, 14 Oct 2020 17:13:01 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/sri-lanka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Europe</title>
-      <link>https://yatramaya.hoatz.in/continents/europe/</link>
-      <pubDate>Wed, 14 Oct 2020 16:57:03 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents/europe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turkey</title>
-      <link>https://yatramaya.hoatz.in/countries/turkey/</link>
-      <pubDate>Wed, 14 Oct 2020 16:57:03 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/turkey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>North America</title>
-      <link>https://yatramaya.hoatz.in/continents/north-america/</link>
-      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/continents/north-america/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United States of America</title>
-      <link>https://yatramaya.hoatz.in/countries/united-states-of-america/</link>
-      <pubDate>Wed, 14 Oct 2020 10:32:42 +0530</pubDate>
-      
-      <guid>https://yatramaya.hoatz.in/countries/united-states-of-america/</guid>
+      <guid>https://yatramaya.hoatz.in/duration.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Day</title>
-      <link>https://yatramaya.hoatz.in/duration/full-day/</link>
-      <pubDate>Wed, 14 Oct 2020 10:17:00 +0530</pubDate>
+      <link>https://yatramaya.hoatz.in/duration/full-day.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/duration/full-day/</guid>
+      <guid>https://yatramaya.hoatz.in/duration/full-day.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kenya</title>
-      <link>https://yatramaya.hoatz.in/countries/kenya/</link>
-      <pubDate>Sun, 03 Nov 2019 19:32:50 +0530</pubDate>
+      <title>Medium</title>
+      <link>https://yatramaya.hoatz.in/medium.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/kenya/</guid>
+      <guid>https://yatramaya.hoatz.in/medium.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tanzania</title>
-      <link>https://yatramaya.hoatz.in/countries/tanzania/</link>
-      <pubDate>Sun, 03 Nov 2019 19:32:50 +0530</pubDate>
+      <title>Nature</title>
+      <link>https://yatramaya.hoatz.in/types/nature.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/tanzania/</guid>
+      <guid>https://yatramaya.hoatz.in/types/nature.html</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Zanzibar</title>
-      <link>https://yatramaya.hoatz.in/countries/zanzibar/</link>
-      <pubDate>Tue, 02 Oct 2018 19:02:15 +0530</pubDate>
+      <title>North America</title>
+      <link>https://yatramaya.hoatz.in/continents/north-america.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
       
-      <guid>https://yatramaya.hoatz.in/countries/zanzibar/</guid>
+      <guid>https://yatramaya.hoatz.in/continents/north-america.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photologue</title>
+      <link>https://yatramaya.hoatz.in/medium/photologue.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/medium/photologue.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Types</title>
+      <link>https://yatramaya.hoatz.in/types.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United States of America</title>
+      <link>https://yatramaya.hoatz.in/countries/united-states-of-america.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/countries/united-states-of-america.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wildlife</title>
+      <link>https://yatramaya.hoatz.in/types/wildlife.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/wildlife.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Africa</title>
+      <link>https://yatramaya.hoatz.in/continents/africa.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/continents/africa.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest</title>
+      <link>https://yatramaya.hoatz.in/types/forest.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/forest.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Half Day</title>
+      <link>https://yatramaya.hoatz.in/duration/half-day.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/duration/half-day.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trekking</title>
+      <link>https://yatramaya.hoatz.in/types/trekking.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/trekking.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uganda</title>
+      <link>https://yatramaya.hoatz.in/countries/uganda.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/countries/uganda.html</guid>
       <description></description>
     </item>
     

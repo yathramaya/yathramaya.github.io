@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types on Yātrāmaya</title>
+    <link>https://yatramaya.hoatz.in/types.html</link>
+    <description>Recent content in Types on Yātrāmaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 16:16:02 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature</title>
+      <link>https://yatramaya.hoatz.in/types/nature.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/nature.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wildlife</title>
+      <link>https://yatramaya.hoatz.in/types/wildlife.html</link>
+      <pubDate>Sun, 06 Dec 2020 16:16:02 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/wildlife.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest</title>
+      <link>https://yatramaya.hoatz.in/types/forest.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/forest.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trekking</title>
+      <link>https://yatramaya.hoatz.in/types/trekking.html</link>
+      <pubDate>Sun, 03 Mar 2019 19:17:22 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/types/trekking.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

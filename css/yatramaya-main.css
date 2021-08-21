@@ -1,0 +1,43 @@
+.rp-background-image-1 {
+	background-image: url('../images/bg.jpg');
+	background-attachment: fixed;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+
+.rp-background-image-2 {
+	background-image: url('../images/bg_two.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.rp-smaller-text {
+	font-size: 0.75em !important;
+}
+
+.rp-larger-text {
+	font-size: 6.00em !important;
+}
+
+.rp-sticky-menu {
+	position: -webkit-sticky !important;
+	position: sticky  !important;
+	top: 0  !important;
+	z-index: 2  !important;
+}
+
+.rp-sticky-menu-bottom {
+	position: -webkit-sticky !important;
+	position: sticky  !important;
+	bottom: 0  !important;
+	z-index: 1  !important;
+}
+
+.rp-sticky-menu-2 {
+	position: -webkit-sticky !important;
+	position: sticky  !important;
+	top: 0  !important;
+	z-index: 3  !important;
+	float: left;
+}
