@@ -14,20 +14,27 @@
 	border-bottom: 3px solid #a8dadc !important;
 }
 
+.rp-border-top-one {
+	border-top-color: #a8dadc !important;
+	border-top-width: 3px !important;
+	border-top-style: solid !important;
+	border-top: 3px solid #a8dadc !important;
+}
+
 /*blueish*/
 .rp-background-two {
 	background-color: #1d3557 !important;
 }
 
-.rp-background-image {	
-	background-image: url('../images/bg.jpg') !important;
-	background-attachment: fixed !important;
-	background-size: 100% auto !important;
-	height: 500px !important;	
-}
-
 .rp-text-two {
 	color: #1d3557 !important;
+}
+
+.rp-border-two {
+	border-color: #1d3557 !important;
+	border-width: 1px !important;
+	border-style: solid !important;
+	border: 1px solid #1d3557 !important;
 }
 
 

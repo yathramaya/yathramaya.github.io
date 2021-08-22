@@ -19,9 +19,29 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: "Trocchi", "Old Standard TT", "Bitter HT", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+	font-family: "Trocchi", "Old Standard TT", "Bitter HT", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
 }
 
-.title.ym-title {
-  font-family: "Lobster", "Berkshire Swash", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+.title.ym-title, .ym-title-varying {
+	font-family: "Lobster", "Berkshire Swash", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+.title.ym-title-varying {
+	font-family: "Lobster", "Berkshire Swash", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+.ym-title-varying {
+	font-size: 500% !important;
+}
+
+@media screen and (max-width: 1023px) {
+	.ym-title-varying {
+		font-size: 410% !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.ym-title-varying {
+		font-size: 330% !important;
+	}
 }

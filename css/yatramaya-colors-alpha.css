@@ -14,22 +14,28 @@
 	border-bottom: 3px solid #C9D8B6 !important;
 }
 
+.rp-border-top-one {
+	border-top-color: #C9D8B6 !important;
+	border-top-width: 3px !important;
+	border-top-style: solid !important;
+	border-top: 3px solid #C9D8B6 !important;
+}
+
 /*blueish*/
 .rp-background-two {
 	background-color: #515E63 !important;
-}
-
-.rp-background-image {	
-	background-image: url('../images/bg.jpg') !important;
-	background-attachment: fixed !important;
-	background-size: 100% auto !important;
-	height: 500px !important;	
 }
 
 .rp-text-two {
 	color: #515E63 !important;
 }
 
+.rp-border-two {
+	border-color: #515E63 !important;
+	border-width: 1px !important;
+	border-style: solid !important;
+	border: 1px solid #515E63 !important;
+}
 
 /*lightgreen*/
 .rp-background-three {
