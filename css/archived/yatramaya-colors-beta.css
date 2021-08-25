@@ -1,0 +1,70 @@
+/*parrotgreen*/
+.rp-background-one {
+	background-color: #a8dadc !important;
+}
+
+.rp-text-one {
+	color: #a8dadc !important;
+}
+
+.rp-border-bottom-one {
+	border-bottom-color: #a8dadc !important;
+	border-bottom-width: 3px !important;
+	border-bottom-style: solid !important;
+	border-bottom: 3px solid #a8dadc !important;
+}
+
+.rp-border-top-one {
+	border-top-color: #a8dadc !important;
+	border-top-width: 3px !important;
+	border-top-style: solid !important;
+	border-top: 3px solid #a8dadc !important;
+}
+
+/*blueish*/
+.rp-background-two {
+	background-color: #1d3557 !important;
+}
+
+.rp-text-two {
+	color: #1d3557 !important;
+}
+
+.rp-border-two {
+	border-color: #1d3557 !important;
+	border-width: 1px !important;
+	border-style: solid !important;
+	border: 1px solid #1d3557 !important;
+}
+
+
+/*lightgreen*/
+.rp-background-three {
+	background-color: #f1faee !important;
+}
+
+.rp-text-three {
+	color: #f1faee !important;
+}
+
+.rp-border-three {
+	border-color: #f1faee !important;
+	border-width: 1px !important;
+	border-style: solid !important;
+	border: 1px solid #f1faee !important;
+}
+
+/*darkgreen*/
+.rp-background-four {
+	background-color: #457b9d !important;
+}
+
+.rp-text-four {
+	color: #457b9d !important;
+}
+
+a.rp-link-hover:hover {
+	text-decoration: underline;
+	color: #1d3557 !important;
+	background-color: #a8dadc !important;
+}
