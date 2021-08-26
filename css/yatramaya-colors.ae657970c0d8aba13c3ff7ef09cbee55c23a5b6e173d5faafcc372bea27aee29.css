@@ -1,0 +1,198 @@
+/********************* (LIGHT) **********************/
+.rp-background-light {
+  background-color: #FFD57E !important; }
+
+.rp-text-light {
+  color: #FFD57E !important; }
+
+.rp-border-bottom-light {
+  border-bottom-color: #FFD57E !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid #FFD57E !important; }
+
+.rp-border-top-light {
+  border-top-color: #FFD57E !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid #FFD57E !important; }
+
+.rp-border-light {
+  border-color: #FFD57E !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid #FFD57E !important; }
+
+/********************************************************/
+/********************* (DARKER) ********************/
+.rp-background-darker {
+  background-color: maroon !important; }
+
+.rp-text-darker {
+  color: maroon !important; }
+
+.rp-border-bottom-darker {
+  border-bottom-color: maroon !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid maroon !important; }
+
+.rp-border-top-darker {
+  border-top-color: maroon !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid maroon !important; }
+
+.rp-border-darker {
+  border-color: maroon !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid maroon !important; }
+
+/********************************************************/
+/********************* (DARKEST) ********************/
+.rp-background-darkest {
+  background-color: #4C0000 !important; }
+
+.rp-text-darkest {
+  color: #4C0000 !important; }
+
+.rp-border-bottom-darkest {
+  border-bottom-color: #4C0000 !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid #4C0000 !important; }
+
+.rp-border-top-darkest {
+  border-top-color: #4C0000 !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid #4C0000 !important; }
+
+.rp-border-darkest {
+  border-color: #4C0000 !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid #4C0000 !important; }
+
+/********************************************************/
+/********************* (LIGHTEST) ********************/
+.rp-background-lightest {
+  background-color: beige !important; }
+
+.rp-text-lightest {
+  color: beige !important; }
+
+.rp-border-bottom-lightest {
+  border-bottom-color: beige !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid beige !important; }
+
+.rp-border-top-lightest {
+  border-top-color: beige !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid beige !important; }
+
+.rp-border-lightest {
+  border-color: beige !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid beige !important; }
+
+/********************************************************/
+/********************* (LIGHTER) ********************/
+.rp-background-lighter {
+  background-color: #FFEFA0 !important; }
+
+.rp-text-lighter {
+  color: #FFEFA0 !important; }
+
+.rp-border-bottom-lighter {
+  border-bottom-color: #FFEFA0 !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid #FFEFA0 !important; }
+
+.rp-border-top-lighter {
+  border-top-color: #FFEFA0 !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid #FFEFA0 !important; }
+
+.rp-border-lighter {
+  border-color: #FFEFA0 !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid #FFEFA0 !important; }
+
+/********************************************************/
+/********************* (DARK) **********************/
+.rp-background-dark {
+  background-color: maroon !important; }
+
+.rp-text-dark {
+  color: maroon !important; }
+
+.rp-border-bottom-dark {
+  border-bottom-color: maroon !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid maroon !important; }
+
+.rp-border-top-dark {
+  border-top-color: maroon !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid maroon !important; }
+
+.rp-border-dark {
+  border-color: maroon !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid maroon !important; }
+
+/********************************************************/
+/********************* (HIGHLIGHT) **********************/
+.rp-background-highlight {
+  background-color: #FF5200 !important; }
+
+.rp-text-highlight {
+  color: #FF5200 !important; }
+
+.rp-border-bottom-highlight {
+  border-bottom-color: #FF5200 !important;
+  border-bottom-width: 3px !important;
+  border-bottom-style: solid !important;
+  border-bottom: 3px solid #FF5200 !important; }
+
+.rp-border-top-highlight {
+  border-top-color: #FF5200 !important;
+  border-top-width: 3px !important;
+  border-top-style: solid !important;
+  border-top: 3px solid #FF5200 !important; }
+
+.rp-border-highlight {
+  border-color: #FF5200 !important;
+  border-width: 3px !important;
+  border-style: solid !important;
+  border: 3px solid #FF5200 !important; }
+
+/********************************************************/
+/********************* COMBINATIONS ********************/
+a.rp-link-hover:hover {
+  text-decoration: underline;
+  color: maroon !important;
+  background-color: #FFD57E !important; }
+
+/********************************************************/
+/********************* OVERRIDES ********************/
+.pswp__bg {
+  background: #4C0000 !important;
+  background-color: #4C0000 !important; }
+
+.pswp__caption__center {
+  color: beige !important; }
+
+/********************************************************/
