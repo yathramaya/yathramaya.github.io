@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medium on Yātrāmaya</title>
+    <link>https://yatramaya.hoatz.in/medium.html</link>
+    <description>Recent content in Medium on Yātrāmaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 03:25:04 +0530</lastBuildDate><atom:link href="https://yatramaya.hoatz.in/medium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>essay</title>
+      <link>https://yatramaya.hoatz.in/medium/essay.html</link>
+      <pubDate>Tue, 05 Oct 2021 03:25:04 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/medium/essay.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photologue</title>
+      <link>https://yatramaya.hoatz.in/medium/photologue.html</link>
+      <pubDate>Sat, 24 Jul 2021 20:23:18 +0530</pubDate>
+      
+      <guid>https://yatramaya.hoatz.in/medium/photologue.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

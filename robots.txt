@@ -1,0 +1,169 @@
+User-agent: *
+
+
+Disallow: /year/2018.html
+
+Disallow: /countries/alaska.html
+
+Disallow: /month/august.html
+
+Disallow: /continents.html
+
+Disallow: /countries.html
+
+Disallow: /types/culture.html
+
+Disallow: /duration.html
+
+Disallow: /medium/essay.html
+
+Disallow: /experiences.html
+
+Disallow: /duration/half-day.html
+
+Disallow: /types/historical.html
+
+Disallow: /
+
+Disallow: /types/market.html
+
+Disallow: /medium.html
+
+Disallow: /month.html
+
+Disallow: /continents/north-america.html
+
+Disallow: /types/river.html
+
+Disallow: /experiences/talkeetna-alaskan-hinterland.html
+
+Disallow: /types.html
+
+Disallow: /countries/united-states-of-america.html
+
+Disallow: /year.html
+
+Disallow: /month/april.html
+
+Disallow: /continents/asia.html
+
+Disallow: /countries/jordan.html
+
+Disallow: /duration/multi-day.html
+
+Disallow: /types/nature.html
+
+Disallow: /types/trekking.html
+
+Disallow: /experiences/walking-the-wadi-rum-jordan.html
+
+Disallow: /countries/turkey.html
+
+Disallow: /experiences/hamam-at-istanbul-turkey.html
+
+Disallow: /types/people.html
+
+Disallow: /experiences/goreme-cappadocia-homestay.html
+
+Disallow: /experiences/azaan-at-sultanahmet-istanbul.html
+
+Disallow: /experiences/bentota-to-colombo-train-srilanka.html
+
+Disallow: /month/january.html
+
+Disallow: /medium/photologue.html
+
+Disallow: /countries/sri-lanka.html
+
+Disallow: /types/train.html
+
+Disallow: /year/2017.html
+
+Disallow: /experiences/kibber-a-himalayan-hamlet.html
+
+Disallow: /countries/india.html
+
+Disallow: /types/mountain.html
+
+Disallow: /month/october.html
+
+Disallow: /experiences/sinharaja-forest-reserve-srilanka.html
+
+Disallow: /types/forest.html
+
+Disallow: /duration/full-day.html
+
+Disallow: /experiences/manali-to-kaza-by-bus.html
+
+Disallow: /types/roadtrip.html
+
+Disallow: /types/boat.html
+
+Disallow: /experiences/glacier-tour-seward.html
+
+Disallow: /types/wildlife.html
+
+Disallow: /experiences/entire-village-finery.html
+
+Disallow: /experiences/wildlife-viewing-denali.html
+
+Disallow: /continents/africa.html
+
+Disallow: /month/february.html
+
+Disallow: /experiences/homestay-experience-bududa.html
+
+Disallow: /countries/uganda.html
+
+Disallow: /experiences/whale-watching-lanka.html
+
+Disallow: /types/city.html
+
+Disallow: /continents/europe.html
+
+Disallow: /experiences/live-music-bar-goreme.html
+
+Disallow: /experiences/camping-at-savage-river.html
+
+Disallow: /experiences/denali-at-her-raw-best.html
+
+Disallow: /countries/kenya.html
+
+Disallow: /experiences/adventures-with-matatus.html
+
+Disallow: /countries/tanzania.html
+
+Disallow: /year/2019.html
+
+Disallow: /experiences/trek-to-kuari-pass-pangarchulla.html
+
+Disallow: /month/may.html
+
+Disallow: /month/march.html
+
+Disallow: /experiences/stuck-in-serengeti.html
+
+Disallow: /experiences/our-closest-cousin.html
+
+Disallow: /experiences/stonetown-zanzibar.html
+
+Disallow: /types/beach.html
+
+Disallow: /countries/zanzibar.html
+
+Disallow: /year/2014.html
+
+Disallow: /experiences/andaman-forest-walk.html
+
+Disallow: /.html
+
+Disallow: /about.html
+
+Disallow: /about.html
+
+Disallow: /explore.html
+
+Disallow: /about/privileged-soul.html
+
+Disallow: /about/what-travel-taught-me.html
+
