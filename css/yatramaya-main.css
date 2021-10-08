@@ -2,6 +2,11 @@ html {
 	scroll-behavior: smooth;
 }
 
+html, body {
+	width: auto !important;
+	overflow-x: hidden !important;
+}
+
 .rp-background-image-1 {
 	background-image: url('../images/bg.jpg');
 	background-attachment: fixed;
@@ -30,14 +35,6 @@ html {
 	background-attachment: fixed !important;
 	background-size: 100% auto !important;
 	height: 500px !important;	
-}
-
-.rp-larger-text {
-	font-size: 600% !important;
-}
-
-.rp-smaller-text {
-	font-size: 0.7em !important;
 }
 
 .rp-sticky-menu {
